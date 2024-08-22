@@ -1,6 +1,7 @@
 # HackForMe
 ## gobuster
 Abbiamo un Software di una banca nel desktop e una WorldList cioè un elenco di parole da scorrere per trovare le pagine nascoste.
+
 La banca non ha una conessione sicura per questo possiamo facilmente entare per far danno.
 
 Con gobuster possiamo trovare tutte le pagine nascoste.
